@@ -1,4 +1,4 @@
-# ⚡Alper AVCI
+# ⚡Alper Avcı
 🔭 I’m currently working on React Native<br>
 🌱 I’m currently learning React Native and JavaScript
 
