@@ -1,7 +1,7 @@
 <img src="header.jpg">
-<p align="center" style="font-size: 32px; font-weight: bold" >Alper Avcı</p>
+<h1 align="center">Alper Avcı</h1>
 
-<p align="center" style="font-size: 28px" >Skills</p>
+<h3 align="center" >Skills</h3>
 <p align="center"></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -20,7 +20,7 @@
   </a> 
 </p>
 
-<p align="center" style="font-size: 28px" >Social</p>
+<h3 align="center" >Social</h3>
 <p align="center">
 <a href="https://linkedin.com/in/avcialper" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avcialper" height="40" width="40" />
