@@ -2,33 +2,34 @@
 <h1 align="center">Alper Avcı</h1>
 
 <h3 align="center" >Skills</h3>
-<p align="center"></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+
+<p align="center">
+  <a href="https://kotlinlang.org"> 
+    <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="kotlin"/> 
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/349588/android.svg" alt="android" width="40" height="40"/>
+  <a href="https://developer.android.com" > 
+    <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="android"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript"/> 
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+  <a href="https://reactnative.dev/" > 
+    <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactnative"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://git-scm.com/" >
+    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"/> 
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://firebase.google.com/" > 
+    <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase"/>
   </a> 
 </p>
 
 <h3 align="center" >Social</h3>
 <p align="center">
-<a href="https://linkedin.com/in/avcialper" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="avcialper" height="40" width="40" />
+<a href="https://linkedin.com/in/avcialper">
+  <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="avcialper"/>
 </a>
-<a href="https://medium.com/@avcialper" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@avcialper" height="40" width="40" />
+<a href="https://medium.com/@avcialper">
+  <img align="center" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000" alt="@avcialper"/>
 </a>
 </p>
