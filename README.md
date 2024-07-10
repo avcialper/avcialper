@@ -12,12 +12,15 @@
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase"  width="60" height="60"/>
 </p>
 
-<h3 align="center" >Social</h3>
+<h3 align="center" >Contact Information</h3>
 <p align="center">
   <a href="https://linkedin.com/in/avcialper">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="avcialper"  width="60" height="60"/>
   </a>
   <a href="https://medium.com/@avcialper">
-    <img src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000" alt="@avcialper"  width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=wYiGNIiB4OKj&format=png&color=000000" alt="@avcialper"  width="60" height="60"/>
+  </a>
+  <a href="mailto:avcialper12@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="avcialper12@gmail.com"  width="60" height="60"/>
   </a>
 </p>
