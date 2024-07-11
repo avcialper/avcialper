@@ -5,11 +5,11 @@
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="kotlin" width="60" height="60"/> 
-  <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="android"  width="60" height="60"/>
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v33c98f032862492e9ba9b5c082012b3acefe2c8157ae3b581c045ee1ec32bff0/android/images/favicon.svg" alt="android"  width="60" height="60"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript"  width="60" height="60"/> 
   <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactnative" width="60" height="60"/> 
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"  width="60" height="60"/> 
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase"  width="60" height="60"/>
+  <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" alt="firebase"  width="60" height="60"/>
 </p>
 
 <h3 align="center" >Contact Information</h3>
