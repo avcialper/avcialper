@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="avcialper"  width="60" height="60"/>
   </a>
   <a href="https://medium.com/@avcialper">
-    <img src="https://img.icons8.com/?size=100&id=wYiGNIiB4OKj&format=png&color=000000" alt="@avcialper"  width="60" height="60"/>
+    <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@avcialper"  width="60" height="60"/>
   </a>
   <a href="mailto:avcialper12@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="avcialper12@gmail.com"  width="60" height="60"/>
