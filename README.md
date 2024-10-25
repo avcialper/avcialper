@@ -23,4 +23,7 @@
   <a href="mailto:avcialper12@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="avcialper12@gmail.com"  width="60" height="60"/>
   </a>
+  <a href="https://avcialper.vercel.app/">
+    <img src="https://i.ibb.co/sVKQwQn/icon.png" alt="avcialper.vercel.com"  width="60" height="60"/>
+  </a>
 </p>
