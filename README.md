@@ -1,5 +1,5 @@
-![Header](./header-dark.png#gh-dark-mode-only)
-![Header](./header-light.png#gh-light-mode-only)
+![Header](./header-dark-v2.png#gh-dark-mode-only)
+![Header](./header-light-v2.png#gh-light-mode-only)
 
 ![Skills](./skills.png)
 <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="kotlin" width="60" height="60"/> 
